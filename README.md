@@ -18,7 +18,7 @@ A lightweight, interactive Streamlit web application for managing employee recor
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python
+* **Language:** Python,c++
 * **Web Framework:** [Streamlit](https://streamlit.io/)
 * **Data Handling:** Pandas
 
