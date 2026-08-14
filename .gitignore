@@ -1,0 +1,16 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment (if you use one)
+venv/
+.venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# C++ output files
+*.exe
+*.o
+output/
