@@ -24,14 +24,3 @@ A lightweight, interactive Streamlit web application for managing employee recor
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have Python installed on your system.
-
-### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/your-username/employee-salary-system.git](https://github.com/your-username/employee-salary-system.git)
-cd employee-salary-system
