@@ -39,4 +39,4 @@ It includes both a **native C++ console application** for core object-oriented p
 
 ### 1. Clone Repository
 ```bash
-git clone [[https://github.com/your-username/employee-salary-system.git](https://github.com/nadarasoul-prog/Employee-Salary-System)]
+git clone (https://github.com/nadarasoul-prog/Employee-Salary-System)
